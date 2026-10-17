@@ -26,7 +26,7 @@ The realtime layer needs a Realtime Database and matching security rules:
 2. **Firestore rules** — paste `firestore.rules` into Firestore → Rules →
    Publish (adds `users` + `usernames` on top of `cribs`).
 3. **Auth** — enable the providers you want (Google / Apple / Email+Password)
-   under Authentication → Sign-in method, and add `magwann.github.io` +
+   under Authentication → Sign-in method, and add `jcakphleps.github.io` +
    `localhost` under Authentication → Settings → Authorized domains.
 
 ## Controls
